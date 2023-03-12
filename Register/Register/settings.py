@@ -144,8 +144,8 @@ SOCIAL_AUTH_GITHUB_SECRET = os.environ.get("c516d31b4ef8128a577cdc289fe5cf8965b6
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'wafulakevin070@gmail.com'
-EMAIL_HOST_PASSWORD = 'pcgiijajmhhlfluz' 
+EMAIL_HOST_USER = 'Your gmail'
+EMAIL_HOST_PASSWORD = '#' 
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 DEFAULT_FROM_EMAIL = 'default from email'
